@@ -10,7 +10,7 @@ const Info = () => {
                 height: '100vh'
             }}
         >
-            <h1>This is your wallet info</h1>
+            <h1>Your wallet info</h1>
         </div>
     )
 }
