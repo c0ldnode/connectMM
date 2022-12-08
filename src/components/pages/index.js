@@ -10,7 +10,7 @@ const Home = () => {
                 height: '200vh'
             }}
         >
-            <h1>Crypthios</h1>
+            <h1>Homepage</h1>
         </div>
     )
 }
